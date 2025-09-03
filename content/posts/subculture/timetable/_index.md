@@ -1,6 +1,6 @@
 +++
 
-title = "Timetable Fiend"
+title = "Timetable Museum"
 
 +++
 

@@ -1,3 +1,9 @@
++++
+
+title = "The \"Sakura Tram\""
+
++++
+
 On a Thursday afternoon in Tokyo, my interest in Haruki Murakami’s work prompted a visit to the Waseda International House of Literature. To my disappointment, it was closed for summer break. I wandered around the campus before exiting through the North Gate, where I stumbled upon the starting station of the Toden Arakawa Line: Waseda Station. 
 
 Though also a modest tram line, it felt very different from the Arashiyama Line in Kyoto. Lacking modern amenities like platform screen doors or vending machines, the single-track station was simple yet refined. Instead of the usual exaggerated advertisements one sees in other train stations, both sides of the platform were lined with well-tended plants and community notice boards. These details created a heartfelt warmth; it was a welcome contrast to the urban estrangement often associated with Tokyo. In short, I was impressed. 

@@ -1,3 +1,3 @@
 +++
-title = "Railroad Culture"
+title = "Culture"
 +++
