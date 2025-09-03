@@ -1,5 +1,16 @@
 +++
+[paige.pages]
+disable_collections = true
+disable_pages = true
+disable_sections = true
 +++
+
+{{< paige/image alt="Landscape"
+breakpoints=true
+class="mt-3 object-fit-cover rounded-4 shadow justify-content-center"
+height="50rem"
+src="saitama_mosaic.jpg"
+width="100%" >}}
 
 <h1 class="fw-bold h1 text-center" style="margin-top: 2rem">Hello There!</h1>
 
@@ -11,4 +22,4 @@
     </div>
 </div>
 
-<p class="lead text-center">A Project for ASCL 69.23 at Dartmouth College</p>
+<p class="text-center"><i>A Project for ASCL 69.23 at Dartmouth College</i></p>
