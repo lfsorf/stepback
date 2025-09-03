@@ -1,6 +1,6 @@
 +++
 
-title = "The \"Sakura Tram\""
+title = "\"Sakura Tram\""
 
 +++
 
@@ -14,4 +14,4 @@ The passengers were another distinction. As far as I could tell, there were no t
 
 I eventually dozed off, waking to find the tram had yet to make it through even half of the route. Indeed, it was extremely slow; despite running on dedicated tracks, largely separated from traffic; the route, about 12 kilometers in length, took almost an hour from beginning to end.
 
-Being on Tokyo's only remaining tram line, this short yet lengthy journey made me ponder the city's evolution. On one hand, great continuity exists: Tokyo remains the cultural and economic center of the nation, as it was before and after the devastating war that ended in 1945. The (in)famous Yamanote Line has served passengers for almost 140 years; Tokyo’s position as an epicenter of change in Japan has largely not been unchallenged since the Meiji Restoration. Yet, the city is as organic as any living being, constantly undergoing transformations. One might even say this constant process of change is part of its continuity. The tram, then, is a way in which these changes are remembered. When people board the Sakura tram, which may lack the efficiency and speed of the subway (as they are introduced to replace trams), they are also continuing the memorial of the city’s past. Therefore, I felt a profound, personal connection to riding this line. 
+Being on Tokyo's only remaining public tram line, this short yet lengthy journey made me ponder the city's evolution. On one hand, great continuity exists: Tokyo remains the cultural and economic center of the nation, as it was before and after the devastating war that ended in 1945. The (in)famous Yamanote Line has served passengers for almost 140 years; Tokyo’s position as an epicenter of change in Japan has largely not been unchallenged since the Meiji Restoration. Yet, the city is as organic as any living being, constantly undergoing transformations. One might even say this constant process of change is part of its continuity. The tram, then, is a way in which these changes are remembered. When people board the Sakura tram, which may lack the efficiency and speed of the subway (as they are introduced to replace trams), they are also continuing the memorial of the city’s past. Therefore, I felt a profound, personal connection to riding this line. 
