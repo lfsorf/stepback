@@ -1,10 +1,8 @@
 +++
-
 title = "Timetable Museum"
-
+layout="paige/page"
 +++
 
-{{ <paige/image src="jikokuhyo_museum.jpg"> }}
 
 *Jikokuhyo-tetsu* is a term that refers to railroad fans (hence the *tetsu*) who revel in collecting and reading timetables published by travel agencies. When I think of *jikokuhyo* (timetable), the first thing that comes to mind is a Japanese test I barely prepared for—and as with anything requiring preparation that I neglected, I paid a heavy price. Having first encountered the word through my mistake rather than a textbook, it never occurred to me that someone would create a museum dedicated to timetables. Yet by chance, I contacted a man who called himself *kancho* (museum director). A medical professional by day, he maintains a private collection in Nakano in his spare time as a devoted timetable enthusiast. He named it simply the Timetable Museum. The understated name belies the carefully put up exhibition.
 
@@ -32,7 +30,15 @@ Since the museum only opens on weekends, I sent him an email on Saturday evening
 >
 >Q: What do you think the future of railways will be?
 >
->A: As for railroads, I don’t think it is going away, but I wonder if the truly necessary railroads and the ones that are not would diverge. After all, since the total population is decreasing, the number of people who ride trains is also decreasing. To someone like me likes railways, that's sad; as a matter of reality, when passengers become fewer, railways do disappear. That's worrying. In places like Tokyo, you don't feel that people are decreasing, but in rural areas of Japan, people are decreasing, aren't they? When that happens, the necessity of railways weakens. I have that feeling. 
+>A: As for railroads, I don’t think it is going away, but I wonder if the truly necessary railroads and the ones that are not would diverge. After all, since the total population is decreasing, the number of people who ride trains is also decreasing. To someone like me likes railways, that's sad; as a matter of reality, when passengers become fewer, railways do disappear. That's worrying. In places like Tokyo, you don't feel that people are decreasing, but in rural areas of Japan, people are decreasing, aren't they? When that happens, the necessity of railways weakens. I have that feeling.
+
+{{< paige/figure caption="One corner of the museum" >}}
+{{< paige/image 
+alt="Bookshelves of the Timetable Museum"
+height="40rem"
+class="justify-content-center mx-auto"
+src="jikokuhyo_museum.jpg" >}}
+{{</paige/figure>}}
 
 Following our interview, kancho generously showed me his timetable collection, an experience I found truly eye-opening. He had acquired them through various channels: purchasing new editions, receiving them as gifts, or finding them in *kosho-ten* (used book stores).  My curiosity led me to ask about his oldest timetable, and he promptly presented one with "Taisho Year 5" (1925) emblazoned on its cover. The presence of *tetsudo-sho* (Ministry of Railway) above the title further underscored its age . As I flipped through the pages, I was struck by how much looked familiar. Aside from Hokkaido's steadily shrinking railway network, most station names, administrative divisions, and railroad lines in Japan have remained largely the same today. My interest thoroughly piqued, I continued to eagerly request more timetables. Continuitiy aside, unexpected discoveries were also numerous. For instance, the one detailing a route from Tokyo to Moscow was particularly surprising, revealing a level of global interconnectedness I hadn't realized existed before the widespread adoption of air travel.
 

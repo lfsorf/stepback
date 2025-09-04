@@ -4,7 +4,11 @@ title = "Railroad as Ecosystem"
 
 +++
 
-{{ <paige/image> src="busy_JR_osaka_station.jpg"}}
+{{< paige/figure caption="The view of JR Osaka station platform from above" >}}
+
+{{< paige/image src="busy_JR_osaka_station.jpg" >}}
+
+{{< /paige/figure >}}
 
 When I first stepped into the Sakaisuji Line heading north, I felt reminiscent of my past visits to Hong Kong. It was vastly different from what I experienced in the U.S. It was rush hour, and expectedly, the morning train arrived with a crowd. It left a deep impression. A crowded train was not an unfamiliar sight, yet when 10 cars, each 20 approximately yards in length, are packed with people, I was not only surprised but astonished. “Efficiency,” the word came to mind as I ruminated about its resemblance to Hong Kong. The railway system in Osaka screams of efficiency. Looking at the walls of the station, timetables are put up for passengers to reference. 90% of the time, the provided time is accurate. The train wastes no moment in transporting its passengers from between the stations.
 

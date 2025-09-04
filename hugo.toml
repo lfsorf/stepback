@@ -61,9 +61,9 @@ weight = 40
 style = """
 #paige-page-content,
 #paige-page-pages > * {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 40rem;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 40rem !important;
 }
 """
 
