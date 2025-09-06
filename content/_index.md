@@ -14,7 +14,7 @@ style = """
 {{< paige/image
 breakpoints=true
 class="mt-3 object-fit-cover rounded-4 shadow justify-content-center"
-height="50rem"
+height="40rem"
 src="saitama_mosaic.jpg"
 width="100%" >}}
 {{< /paige/figure >}}
